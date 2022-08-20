@@ -1,9 +1,8 @@
-<h2 align="center">Supporting Payum</h2>
+<h2 align="center">Payum Laravel Package</h2>
 
-Payum is an MIT-licensed open source project with its ongoing development made possible entirely by the support of community and our customers. If you'd like to join them, please consider:
+Fork of the Laravel Package with Laravel 9+ support is maintanced by BracketSpace.
 
-- [Become a sponsor](https://www.patreon.com/makasim)
-- [Become our client](http://forma-pro.com/)
+Payum is an MIT-licensed open source project with its ongoing development made possible entirely by the support of community and our customers.
 
 ---
 

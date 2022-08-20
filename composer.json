@@ -1,5 +1,5 @@
 {
-    "name": "payum/payum-laravel-package",
+    "name": "bracketspace/payum-laravel-package",
     "type": "library",
     "description": "Rich payment solutions for Laravel framework. Paypal, payex, authorize.net, be2bill, omnipay, recurring paymens, instant notifications and many more",
     "keywords": [
@@ -20,6 +20,10 @@
     "homepage": "http://payum.forma-dev.com",
     "license": "MIT",
     "authors": [
+        {
+            "name": "BracketSpace",
+            "email": "support@bracketspace.com"
+        },
         {
             "name": "Kotlyar Maksim",
             "email": "kotlyar.maksim@gmail.com"
